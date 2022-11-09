@@ -1,0 +1,1 @@
+THis is a simple carousel using CSS and JS
